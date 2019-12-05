@@ -16,3 +16,5 @@ fields:
     schema:
       format: markdown
   label: Text
+pages:
+- src/content/posts/testing-123.md
